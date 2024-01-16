@@ -141,7 +141,7 @@ const CampaignTable = () => {
                 </th>
                 <th>
                   <div style={{ display: "flex" }}>
-                    <div>Marketplace</div>
+                    <div>Date</div>
                     <SortingBtn
                       numeric={false}
                       state={dateFilter}
